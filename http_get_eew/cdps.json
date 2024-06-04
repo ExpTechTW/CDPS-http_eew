@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "description": {
+        "zh_tw": "從 Https 接收地震速報"
+    },
+    "author": [
+        "Yoyo0901"
+    ],
+    "dependencies": {
+        "cdps": ">=1.0.18"
+    },
+    "resources": [
+        "AGPL-3.0"
+    ],
+    "link": "https://github.com/ExpTechTW/CDPS"
+}
